@@ -1,2 +1,2 @@
 # secondsession
-Thsi is git's second session.
+This is git's second session.
